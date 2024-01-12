@@ -5,8 +5,6 @@ Overview
 ![image](https://github.com/kylehraja/MusicPlayer/assets/140476247/9890520c-2800-4aab-a94f-b3c1b28365f8)
 
 
-Music player buttons
-
 Try out the buttons on the playlist. The functionality is what you would expect on a basic mp3 player.
 ![image](https://github.com/kylehraja/MusicPlayer/assets/140476247/26dcfac4-58f6-4a8b-bba2-8078c58c24ee)
 

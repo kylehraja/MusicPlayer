@@ -21,7 +21,10 @@ Reset button
 ![image](https://github.com/kylehraja/MusicPlayer/assets/140476247/a833cf4d-172e-4e4c-819a-7df99ac8ab8f)
 
 
+How to run project:
 
+1) Download and open the index.html, styles.css, and script.js in VS Code
+2) Run index.html using Chrome (or another browser), whatever extenstion you prefer.
 
 
 
